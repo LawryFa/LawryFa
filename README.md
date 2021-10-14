@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @LawryFa
+- I’m interested in React framework, Java and python.
